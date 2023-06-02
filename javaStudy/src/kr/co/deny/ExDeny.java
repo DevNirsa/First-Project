@@ -12,7 +12,7 @@ public class ExDeny {
 		return width;
 	}
 	
-	
+	// asdfasdfasdfdsaf
 //	protected final void publicMethod() {
 //		System.out.println("publicMethod !");
 //	}
