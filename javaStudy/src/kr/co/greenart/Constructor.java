@@ -10,7 +10,7 @@ public class Constructor {
 		
 //		System.out.printf("%s , %d , %d \n", p1.name, p1.price, p1.count);
 		
-		Product p2 = new Product("마aaaaaaaaa우스", 25000, 5);
+		Product p2 = new Product("마aaaaaaaaa우스aaaa", 25000, 5);
 		System.out.printf("%s , %d , %d \n", p2.name, p2.price, p2.count);
 		
 		Product p3 = new Product("키보드aaaaa", 50000);
