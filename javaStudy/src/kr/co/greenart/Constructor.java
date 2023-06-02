@@ -15,7 +15,7 @@ public class Constructor {
 
 		System.out.printf("%s , %d , %d \n", p2.name, p2.price, p2.count);
 		
-		Product p3 = new Product("키보드bbbb", 50000);
+		Product p3 = new Product("키보드1111111", 50000);
 		System.out.printf("%s , %d , %d ", p3.name, p3.price, p3.count);
 		
 		Product p1 = new Product();
