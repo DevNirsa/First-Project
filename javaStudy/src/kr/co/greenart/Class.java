@@ -12,7 +12,7 @@ public class Class {
 
 class Person {  // 사람이라는 설계도(틀)
 	public String walk() {  // 특정한 기능이나 동작(행위)
-		return "한걸음 걸었어요.";
+		return "한걸음 걸었어요aa.";
 	}
 	
 	public String run() {
