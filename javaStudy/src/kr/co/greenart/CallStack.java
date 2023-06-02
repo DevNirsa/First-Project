@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class CallStack {
 	int num;
-	int[] numArr = {1, 2, 3, 4, 5, 6};
+	int[] numArr = {1, 2, 3, 4, 5, 6, 7};
 
 	public static void main(String[] args) {
 		CallStack cs = new CallStack(); // 객체 생성 - 인스턴스화
