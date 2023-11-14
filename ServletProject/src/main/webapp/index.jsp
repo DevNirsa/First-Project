@@ -15,7 +15,7 @@
 	
   <section>
     <h2>홈</h2>
-    <p>${sessionScope.name} 안녕하세요! 홈페이지에 오신 것을 환영합니다.</p>
+    <p>${sessionScope.name} 안녕하세요! 홈페이지에asf 오신 것을 환영합니다.</p>
   </section>
   
 	<%@ include file="./views/common/footer.jsp" %>
